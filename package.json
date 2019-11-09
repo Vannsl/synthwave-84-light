@@ -1,0 +1,21 @@
+{
+    "name": "synthwave-84-light",
+    "displayName": "SynthWave '84 Light",
+    "description": "A light Synthwave-inspired colour theme to satisfy your neon dreams",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SynthWave '84 Light",
+                "uiTheme": "vs",
+                "path": "./themes/SynthWave '84 Light-color-theme.json"
+            }
+        ]
+    }
+}
